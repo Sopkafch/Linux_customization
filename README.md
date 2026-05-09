@@ -19,20 +19,14 @@
 |---|---|
 | **ОС** | Linux Mint |
 | **WM** | [i3wm](https://i3wm.org) (Gaps enabled) |
-| **Панель** | [Polybar](https://github.com) (Floating style) |
-| **Композитор** | [Picom](https://github.com) (Animations & Rounded corners) |
-| **Меню** | [Rofi](https://github.com) (Apps & Powermenu) |
-| **Терминал** | GNOME Terminal (Bash + Neofetch) |
-| **Обои** | [Nitrogen](https://github.com) |
-
----
-
-## 🎨 Дизайн
-* **Цвета:** [Gruvbox Retro](https://github.com)
-* **Шрифты:** [JetBrainsMono Nerd Font](https://nerdfonts.com)
-* **Иконки:** [Gruvbox Plus Dark](https://github.com)
-* **Тема GTK:** Gruvbox-Retro (LXAppearance)
-
+| **Панель(Bar)** | [Polybar]([https://github.com](https://github.com/polybar/polybar)) (Floating style) |
+| **Композитор(Composer)** | [Picom](https://github.com/yshui/picom) (Animations & Rounded corners) |
+| **Меню(beckon)** | [Rofi](https://github.com/davatorium/rofi) (Apps & Powermenu) |
+| **Терминал(Terminal)** | GNOME Terminal (Bash + Neofetch) |
+| **Обои(Wallpaper)** | [Nitrogen(СДЕЛААААААТЬ)](https://github.com) |
+| **Тема GTK(GTK Theme)** | [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) |
+| **Шрифты(Fonts)** | [Nerd fonts](https://www.nerdfonts.com/#home) |
+| **Иконки(Icon)** | [Gruvbox Icon](https://github.com/SylEleuth/gruvbox-plus-icon-pack) |
 ---
 
 ## ⌨️ Основные горячие клавиши (Keybinds)
