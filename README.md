@@ -19,7 +19,7 @@
 |---|---|
 | **ОС** | Linux Mint |
 | **WM** | [i3wm](https://i3wm.org) (Gaps enabled) |
-| **Панель(Bar)** | [Polybar]([https://github.com](https://github.com/polybar/polybar)) |
+| **Панель(Bar)** | [Polybar](https://github.com/polybar/polybar) |
 | **Композитор(Composer)** | [Picom](https://github.com/yshui/picom) |
 | **Меню(beckon)** | [Rofi](https://github.com/davatorium/rofi) |
 | **Терминал(Terminal)** | GNOME Terminal (Bash + Neofetch) |
