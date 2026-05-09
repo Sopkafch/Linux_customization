@@ -19,12 +19,12 @@
 |---|---|
 | **ОС** | Linux Mint |
 | **WM** | [i3wm](https://i3wm.org) (Gaps enabled) |
-| **Панель(Bar)** | [Polybar]([https://github.com](https://github.com/polybar/polybar)) (Floating style) |
-| **Композитор(Composer)** | [Picom](https://github.com/yshui/picom) (Animations & Rounded corners) |
-| **Меню(beckon)** | [Rofi](https://github.com/davatorium/rofi) (Apps & Powermenu) |
+| **Панель(Bar)** | [Polybar]([https://github.com](https://github.com/polybar/polybar)) |
+| **Композитор(Composer)** | [Picom](https://github.com/yshui/picom) |
+| **Меню(beckon)** | [Rofi](https://github.com/davatorium/rofi) |
 | **Терминал(Terminal)** | GNOME Terminal (Bash + Neofetch) |
 | **Обои(Wallpaper)** | [Nitrogen(СДЕЛААААААТЬ)](https://github.com) |
-| **Тема GTK(GTK Theme)** | [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) |
+| **Тема GTK(Theme)** | [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) |
 | **Шрифты(Fonts)** | [Nerd fonts](https://www.nerdfonts.com/#home) |
 | **Иконки(Icon)** | [Gruvbox Icon](https://github.com/SylEleuth/gruvbox-plus-icon-pack) |
 ---
