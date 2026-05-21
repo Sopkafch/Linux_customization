@@ -1,6 +1,6 @@
 # 🌿 Warm Gruvbox i3wm Rice (Linux Mint)
 
-Добро пожаловать в мой конфиг сделанный на **linux Mint**, это сетап на базе **i3wm** в цветовой палитре **Gruvbox**. 
+Это конфиг сделанный на **Linux Mint**. Cетап на базе **i3wm** в цветовой палитре **Gruvbox**. 
 
 ---
 
@@ -13,11 +13,11 @@
 | Программа | Описание |
 |---|---|
 | **ОС** | Linux Mint |
-| **WM** | [i3wm](https://i3wm.org) (Gaps enabled) |
+| **WM** | [i3wm](https://i3wm.org) |
 | **Панель (Bar)** | [Polybar](https://github.com/polybar/polybar) |
 | **Композитор (Composer)** | [Picom](https://github.com/yshui/picom) |
 | **Меню (beckon)** | [Rofi](https://github.com/davatorium/rofi) |
-| **Терминал (Terminal)** | GNOME Terminal (Bash + Neofetch) |
+| **Терминал (Terminal)** | Bash |
 | **Обои (Wallpaper)** | [Wallpaper](https://github.com/Sopkafch/Linux_customization/tree/main/wallpaper) |
 | **Тема GTK (Theme)** | [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) |
 | **Шрифты (Fonts)** | [Nerd fonts](https://www.nerdfonts.com/#home) |
@@ -36,4 +36,3 @@
 * `Alt + Enter` — На весь экран (Full screen)
 
 ---
-*Сделано на Linux Mint.*
