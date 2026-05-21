@@ -17,7 +17,7 @@
 | **Панель (Bar)** | [Polybar](https://github.com/polybar/polybar) |
 | **Композитор (Composer)** | [Picom](https://github.com/yshui/picom) |
 | **Меню (beckon)** | [Rofi](https://github.com/davatorium/rofi) |
-| **Терминал (Terminal)** | Bash |
+| **Терминал (Terminal)** | [Bash](https://ru.wikipedia.org/wiki/Bash) |
 | **Обои (Wallpaper)** | [Wallpaper](https://github.com/Sopkafch/Linux_customization/tree/main/wallpaper) |
 | **Тема GTK (Theme)** | [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) |
 | **Шрифты (Fonts)** | [Nerd fonts](https://www.nerdfonts.com/#home) |
