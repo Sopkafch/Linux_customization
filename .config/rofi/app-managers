@@ -1,0 +1,102 @@
+configuration {
+    /* Добавляем filebrowser в список */
+    modi: "drun,filebrowser,window";
+    show-icons: true;
+    icon-theme: "Gruvbox-Plus-Dark";
+    terminal: "gnome-terminal";
+    
+    /* Настраиваем отображение вкладок */
+    display-drun: "   Apps ";
+    display-filebrowser: "   Files ";
+    display-window: "   Windows "; 
+    
+    /* Настройки самого браузера файлов */
+    filebrowser {
+        directory: "/home/boot"; /* Твоя стартовая папка */
+        directories-first: true;
+        sorting-method: "name";
+    }
+
+    /* Переключение вкладок вправо (на Ctrl + Right) */
+    kb-mode-next: "alt+Right,Shift+Right";
+    
+    /* Переключение вкладок влево (на Ctrl + Left) */
+    kb-mode-previous: "alt+Left,Shift+Left";
+}
+
+* {
+    /* Цвета Gruvbox */
+    bg: #282828;
+    bg-alt: #3c3836;
+    fg: #fbf1c7;
+    accent: #d79921;
+    urgent: #fb4934;
+
+    background-color: @bg;
+    text-color: @fg;
+}
+
+window {
+    width: 40%;
+    border: 2px;
+    border-color: @accent;
+    border-radius: 12px;
+    padding: 15px;
+}
+
+mainbox {
+    children: [ inputbar, listview, mode-switcher ];
+}
+
+inputbar {
+    children: [ prompt, entry ];
+    padding: 10px;
+}
+
+prompt {
+    background-color: @accent;
+    text-color: @bg;
+    padding: 6px 12px;
+    border-radius: 6px;
+}
+
+entry {
+    padding: 6px 12px;
+}
+
+listview {
+    lines: 10;
+    columns: 1;
+    padding: 10px 0;
+}
+
+element {
+    padding: 8px;
+    border-radius: 8px;
+}
+
+element selected {
+    background-color: @bg-alt;
+    text-color: @accent;
+}
+
+element-icon {
+    size: 28px;
+    padding: 0 10px 0 0;
+}
+
+mode-switcher {
+    padding: 10px 0 0 0;
+}
+
+button {
+    padding: 10px;
+    background-color: @bg-alt;
+    text-color: @fg;
+    border-radius: 6px;
+}
+
+button selected {
+    background-color: @accent;
+    text-color: @bg;
+}
