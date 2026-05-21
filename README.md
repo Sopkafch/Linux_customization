@@ -34,5 +34,3 @@
 * `Win + Shift + S` — Скриншот (Screenshot)
 * `Alt + Backspace` — Плавающее окно (Floating window)
 * `Alt + Enter` — На весь экран (Full screen)
-
----
