@@ -1,0 +1,36 @@
+// Стиль для панели выключения
+* {
+    background-color: #282828;
+    text-color: #fbf1c7;
+    sel-bg: #3c3836;
+    sel-fg: #fabd2f;
+    accent: #d79921;
+}
+
+window {
+    width: 300px;
+    border: 2px;
+    border-color: @accent;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+listview {
+    lines: 4;
+    columns: 1;
+    scrollbar: false;
+}
+
+element {
+    padding: 8px;
+    border-radius: 8px;
+}
+
+element selected {
+    background-color: @sel-bg;
+    text-color: @sel-fg;
+}
+
+inputbar {
+    enabled: false;
+}
