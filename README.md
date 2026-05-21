@@ -1,6 +1,6 @@
 # 🌿 Warm Gruvbox i3wm Rice (Linux Mint)
 
-Добро пожаловать в мой личный конфиг «Системы Мечты»! Это уютный, теплый и функциональный сетап на базе **i3wm** в цветовой палитре **Gruvbox**. 
+Добро пожаловать в мой конфиг сделанный на **linux Mint**, это сетап на базе **i3wm** в цветовой палитре **Gruvbox**. 
 
 ---
 
@@ -14,40 +14,26 @@
 |---|---|
 | **ОС** | Linux Mint |
 | **WM** | [i3wm](https://i3wm.org) (Gaps enabled) |
-| **Панель(Bar)** | [Polybar](https://github.com/polybar/polybar) |
-| **Композитор(Composer)** | [Picom](https://github.com/yshui/picom) |
-| **Меню(beckon)** | [Rofi](https://github.com/davatorium/rofi) |
-| **Терминал(Terminal)** | GNOME Terminal (Bash + Neofetch) |
-| **Обои(Wallpaper)** | [Nitrogen(СДЕЛААААААТЬ)](https://github.com) |
-| **Тема GTK(Theme)** | [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) |
-| **Шрифты(Fonts)** | [Nerd fonts](https://www.nerdfonts.com/#home) |
-| **Иконки(Icon)** | [Gruvbox Icon](https://github.com/SylEleuth/gruvbox-plus-icon-pack) |
+| **Панель (Bar)** | [Polybar](https://github.com/polybar/polybar) |
+| **Композитор (Composer)** | [Picom](https://github.com/yshui/picom) |
+| **Меню (beckon)** | [Rofi](https://github.com/davatorium/rofi) |
+| **Терминал (Terminal)** | GNOME Terminal (Bash + Neofetch) |
+| **Обои (Wallpaper)** | [Wallpaper](https://github.com/Sopkafch/Linux_customization/tree/main/wallpaper) |
+| **Тема GTK (Theme)** | [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) |
+| **Шрифты (Fonts)** | [Nerd fonts](https://www.nerdfonts.com/#home) |
+| **Иконки (Icon)** | [Gruvbox Icon](https://github.com/SylEleuth/gruvbox-plus-icon-pack) |
 ---
 
 ## ⌨️ Основные горячие клавиши (Keybinds)
-* `Win + Enter` (или `Win + T`) — Открыть терминал
+* `Win + T` — Открыть терминал (Terminal)
 * `Win + D` — Меню приложений (Rofi)
-* `Win + F` — Проводник файлов (Rofi Filebrowser)
 * `Win + G` — Монитор ресурсов (btop)
 * `Win + E` — Домашняя папка (Nemo)
-* `Win + L` — Экран блокировки (i3lock-color)
-* `Alt + Shift + R` — Перезагрузить конфиг i3
-* `Alt + F4` (или `Win + Shift + Q`) — Закрыть окно
+* `Alt + Shift + R` — Перезагрузить конфиг i3 (i3 restart)
+* `Alt + F4` — Закрыть окно (Close window)
+* `Win + Shift + S` — Скриншот (Screenshot)
+* `Alt + Backspace` — Плавающее окно (Floating window)
+* `Alt + Enter` — На весь экран (Full screen)
 
 ---
-
-## 🚀 Установка (Installation)
-
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com
-   cd название_репо
-   ```
-2. Скопируйте конфиги в вашу папку `~/.config/`:
-   ```bash
-   cp -r i3 polybar rofi picom ~/.config/
-   ```
-3. Установите необходимые шрифты из папки `fonts` (если приложите их).
-
----
-*Сделано с ❤️ на Linux Mint.*
+*Сделано на Linux Mint.*
